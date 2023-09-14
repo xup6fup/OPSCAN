@@ -19,7 +19,7 @@ ori_dat <- read.csv(in_path)
 
 # 2. Load model
 
-pred_model <- mx.model.load(prefix = 'model/OPSCAN', iteration = 0)
+pred_model <- mx.model.load(prefix = paste0('model/', model_name), iteration = 0)
 
 pred_executor <- mx.simple.bind(symbol = pred_model$symbol,
                                 data = c(224, 224, 3, batch_size), 

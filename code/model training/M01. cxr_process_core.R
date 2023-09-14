@@ -1,3 +1,6 @@
+
+library(magrittr)
+library(mxnet)
 library(abind)
 
 cxr_process_core <- function(img_paths, img_crop = 224, VALID_CROP = NULL,
