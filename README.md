@@ -59,5 +59,3 @@ In above figure panel A, the benefits of the OPSCAN program versus usual care we
 
 The paper of OPSCAN is currently under review. The following reference provideS details on similar model training approaches.
 
-| Title                                                        | Paper                  | Citation |
-| [A Deep-Learning Algorithm-Enhanced System Integrating Electrocardiograms and Chest X-rays for Diagnosing Aortic Dissection](https://www.sciencedirect.com/science/article/pii/S0828282X21007492) | Can J Cardiol, 38(2):160-168. | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa63e02c581425a038d410a32e0c3a747bf4754c6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/A-Gentle-Introduction-to-Graph-Neural-Networks-S%C3%A1nchez-Lengeling-Reif/a63e02c581425a038d410a32e0c3a747bf4754c6)
