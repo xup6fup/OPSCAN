@@ -1,0 +1,547 @@
+{\rtf1\ansi
+\deff{\fonttbl
+{\f1\fswiss\fcharset0 Helvetica;}
+{\f2\ffroman\charset0\fprg2 Times New Roman;}
+{\f3\ffswiss\charset0\fprg2 Arial;}
+{\f4\fftech\charset0\fprg2 Symbol;}
+{\f4\ffroman\charset0\fprg2 Cambria;}
+}{\colortbl
+{\red0\green0\blue0;}
+{\red255\green0\blue0;}
+{\red0\green255\blue0;}
+{\red0\green0\blue255;}
+}\paperw12240\paperh15840\widowctrl\ftnbj\fet0\sectd\linex0
+\margl720\margr720\margt720\margb720
+\titlepg\headery720\footery720
+{\footer {\pard\qc\fi0\li0 \f2\fs20 \field{\fldinst{page}} \par}}
+{\pard\fi0\li0\f2\fs20\b Table 1\b0\line\par}
+{\pard
+\trowd\trgaph100\trleft0 \trhdr\clvertalb\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx1
+\clvertalb\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx2
+\clvertalb\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx3
+\clvertalb\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx4
+\clvertalb\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx5
+\clvertalb\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx6
+\clvertalb\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrt\brdrs\brdrw15\clbrdrb\brdrs\brdrw15\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20\b V1\b0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20\b V2\b0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20\b V3\b0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20\b V4\b0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20\b V5\b0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20\b V6\b0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20\b V7\b0\cell
+\widctlpar\intbl\row
+
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 ISCD indication\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p < 0.001\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.063\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.090\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 Not meeting ISCD indication\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 151/751 (20.1%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 106/151 (70.2%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 27/106 (25.5%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 Meeting ISCD indication\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 164/1705 (9.6%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 131/164 (79.9%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 48/131 (36.6%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 total_CXR_group\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.022\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.144\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.116\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 n = 1\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 230/1676 (13.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 166/230 (72.2%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 52/166 (31.3%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 n = 2 or 3\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 56/447 (12.5%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 45/56 (80.4%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 10/45 (22.2%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 n = 4 or 5\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 15/112 (13.4%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 14/15 (93.3%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 7/14 (50.0%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 n > 5\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 14/221 (6.3%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 12/14 (85.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 6/12 (50.0%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 positive_prop_group\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.028\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.259\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.654\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 66-79%\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 13/179 (7.3%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 12/13 (92.3%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 5/12 (41.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 \u8805\380%\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 302/2277 (13.3%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 225/302 (74.5%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 70/225 (31.1%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 GENDER\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.334\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.344\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.836\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 male\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 63/547 (11.5%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 44/63 (69.8%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 15/44 (34.1%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 female\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 252/1909 (13.2%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 193/252 (76.6%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 60/193 (31.1%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 AGE_group\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p < 0.001\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.182\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.130\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 <65\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 133/676 (19.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 94/133 (70.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 23/94 (24.5%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 65-74\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 114/851 (13.4%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 87/114 (76.3%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 30/87 (34.5%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 \u8805\375\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 68/929 (7.3%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 56/68 (82.4%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 22/56 (39.3%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 BMI_group\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.103\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.375\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.880\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 <18.5\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 21/246 (8.5%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 18/21 (85.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 5/18 (27.8%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 18.5-23.9\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 176/1310 (13.4%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 134/176 (76.1%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 44/134 (32.8%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 \u8805\324\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 118/900 (13.1%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 85/118 (72.0%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 26/85 (30.6%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 Fracture\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.699\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.164\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.674\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 284/2195 (12.9%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 210/284 (73.9%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 65/210 (31.0%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 1\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 31/261 (11.9%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 27/31 (87.1%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 10/27 (37.0%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 SecondaryOsteoporosis\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.342\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.509\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.424\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 296/2338 (12.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 221/296 (74.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 68/221 (30.8%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 1\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 19/118 (16.1%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 16/19 (84.2%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 7/16 (43.8%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 RheumatoidArthritis\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.416\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.581\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 1.000\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 304/2391 (12.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 230/304 (75.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 73/230 (31.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 1\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 11/65 (16.9%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 7/11 (63.6%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 2/7 (28.6%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 Steroid\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.050\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.174\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 p = 0.346\cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 0\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 270/2188 (12.3%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 199/270 (73.7%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 60/199 (30.2%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+\trowd\trgaph100\trleft0\clvertalt\clshdrawnil\clwWidth2771\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx1
+\clvertalt\clshdrawnil\clwWidth1720\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx2
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx3
+\clvertalt\clshdrawnil\clwWidth1625\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx4
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx5
+\clvertalt\clshdrawnil\clwWidth1529\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx6
+\clvertalt\clshdrawnil\clwWidth1052\clftsWidth3\clheight260\clpadl100\clpadr100\gaph\clbrdrb\brdrs\brdrw15\cellx7
+\pard\ql\widctlpar\intbl\fi0\f2\fs20 1\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 45/268 (16.8%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 38/45 (84.4%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 15/38 (39.5%)\cell
+\pard\qc\widctlpar\intbl\fi0\f2\fs20 \cell
+\widctlpar\intbl\row
+}
+
+{\pard\fi0\f2\fs20\par}}
