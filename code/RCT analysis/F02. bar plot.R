@@ -18,6 +18,9 @@ data_path <-  './data/RCT analysis/RCT data.RData'
 
 load(data_path)
 
+follow_data <- follow_data[follow_data[,'Group'] %in% c('Screening', 'Control'),]
+follow_data[,'Group'] <- as.character(follow_data[,'Group']) %>% factor(., levels = c('Screening', 'Control'))
+
 # 2. Bar plot
 
 data_list <- list()
