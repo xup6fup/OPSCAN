@@ -168,6 +168,9 @@ Table2doc <- function (table_list, filename = 'test.doc') {
 
 load(data_path)
 
+follow_data <- follow_data[follow_data[,'Group'] %in% c('Screening', 'Control'),]
+follow_data[,'Group'] <- as.character(follow_data[,'Group']) %>% factor(., levels = c('Screening', 'Control'))
+
 follow_data[,'ISCD indication'] <- factor((follow_data[,'GENDER'] %in% 'male' & follow_data[,'AGE'] >= 70) | (follow_data[,'GENDER'] %in% 'female' & follow_data[,'AGE'] >= 65))
 levels(follow_data[,'ISCD indication']) <- c('Not meeting ISCD indication', 'Meeting ISCD indication')
 

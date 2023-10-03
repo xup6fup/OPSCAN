@@ -55,6 +55,10 @@ Above figure compares overall osteoporosis-related outcomes between the OPSCAN p
 
 In above figure panel A, the benefits of the OPSCAN program versus usual care were compared on an intention-to-treat basis in the two sex/age subgroups. Notably, the OPSCAN program demonstrated a significantly greater advantage over usual care in identifying new-onset osteoporosis in the not meeting ISCD indication subgroup (OR: 23.22, 95% CI: 10.15-53.10) than it did in the meeting ISCD indication subgroup (OR: 7.97, 95% CI: 5.03-12.64, p for interaction = 0.027). Similar trends were observed in DXA examination (p for interaction = 0.040) and anti-osteoporotic treatment (p for interaction = 0.078). Panel B illustrates the changes in major osteoporotic risk and hip fracture risk among patients who received DXA examinations by OPSCAN, with and without FRAX score calculation. Prior to the DXA examination, it is evident that the not meeting ISCD indication subgroup had lower risks than the meeting ISCD indication subgroup. However, after undergoing DXA, the not meeting ISCD indication subgroup experienced a substantial increase in risk, with an average increase of 2.10-fold and 7.04-fold in major osteoporotic risk and hip fracture risk, respectively, which was significantly higher than the increase observed in the meeting ISCD indication subgroup (p < 0.001).
 
+<img src="result/Fig 05.png">
+
+Lastly, we assessed the impact of AI-CXR risk stratification on osteoporosis outcomes. It's imperative to emphasize that, given the low-risk group received the same "usual care" as the control group, we excluded the results from the screening group in this context, ensuring a direct comparison only between the low-risk and control groups. This analysis parallels the findings presented in Figure 2.
+
 ## Related publications
 
 The paper of OPSCAN is currently under review. The following reference provideS details on similar model training approaches.

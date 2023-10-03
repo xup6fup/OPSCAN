@@ -171,6 +171,9 @@ load(data_path)
 
 # 2. Data
 
+follow_data <- follow_data[follow_data[,'Group'] %in% c('Screening', 'Control'),]
+follow_data[,'Group'] <- as.character(follow_data[,'Group']) %>% factor(., levels = c('Screening', 'Control'))
+
 # 3. Build table
 
 table_list <- list()
