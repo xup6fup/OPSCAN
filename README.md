@@ -61,5 +61,6 @@ Lastly, we assessed the impact of AI-CXR risk stratification on osteoporosis out
 
 ## Related publications
 
-The paper of OPSCAN is currently under review. The following reference provideS details on similar model training approaches.
+Lin C, Tsai DJ, Wang CC, Chao YP, Huang JW, Lin CS, Fang WH* (2024, Jun) Osteoporotic Precise Screening Using Chest Radiography and Artificial Neural Network: The OPSCAN Randomized Controlled Trial. Radiology, 311(3):e231937.
+
 
